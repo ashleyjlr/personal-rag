@@ -1,0 +1,9 @@
+python-dotenv
+openai>=1.40.0
+faiss-cpu
+numpy
+tqdm
+pypdf
+python-docx
+markdown
+streamlit
